@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TextToSpeechTest</string>
+    <string name="textview">Art songs are songs created for performance by classical artists, usually with piano accompaniment,
+        although they can be sung solo. Art songs require strong vocal technique, understanding of language,
+        diction and poetry for interpretation. Though such singers may also perform popular or folk songs on their programs,
+        these characteristics and the use of poetry are what distinguish art songs from popular songs</string>
+    <string name="title_activity_navigatio_drawer_test">NavigatioDrawerTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
